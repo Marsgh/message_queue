@@ -1,0 +1,14 @@
+{
+	"name":"marsgh/message_queue",
+	"description":"php message",
+	"keywords":["message queue "],
+	"require":{
+		"php":">=5.3.0"	
+	},
+	"authors":[
+		{
+			"name":"mars",
+			"email":"mars_em@163.com"
+		}
+	],
+}
