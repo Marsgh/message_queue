@@ -1,5 +1,5 @@
 {
-	"name":"marsgh/message_queue",
+	"name":"Marsgh/message_queue",
 	"description":"php message",
 	"keywords":["message queue "],
 	"require":{
